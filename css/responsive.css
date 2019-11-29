@@ -1,0 +1,347 @@
+
+
+
+@media (max-width: 999px) {
+    .section-service{
+        height: auto!important;
+        padding-top: 140px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    /*******************************/
+    /********QUIENES SOMOS********/
+    .quienes-somos .contenido-section h1{
+        text-align: center;
+        font-size: 30px;
+        padding-right: 50px;
+    }
+    .quienes-somos .contenido-section span{
+        margin-right: -50px;
+    }
+    .quienes-somos .contenido-section p{
+        margin-top: -25px;
+        text-align: center;
+        font-size: 25px;
+    }
+    .quienes-somos .img-responsive{
+        margin: auto;
+    }
+     /************TEAM**************/
+    .section-team{
+        padding: 0;
+    }
+    .section-team h1{
+        text-align: center;
+    }
+    .section-team p{
+        text-align: center;
+        font-size: 20px;
+    }
+    
+    .section-team .content-img img {
+        display: block;
+        margin: auto;
+         margin-left: 30%; 
+        position: relative;
+        border-radius: 50%;
+        max-width: 140px;
+        margin-right: 0 !important;
+    }
+    .section-team .content-text p{
+        font-size: 10px;
+    }
+    .section-team .no-responsive{
+        margin-left:2%; 
+    }
+    .section-team .jaime .content-text{
+        margin-top: -30px;
+        margin-left: 25px;
+    }
+    /************************************/
+    .cohete .overlayed.overlayed-cohete::after {
+        top: 300px;
+        width: 50%;
+        height: 400px;
+        z-index: 15;
+    }
+    /*********EVENTOS***************/
+    .contenido-section h1 {
+        text-align: center;
+    }
+    .contenido-section p{
+        text-align: center;
+    }
+}
+
+@media (max-width: 767px){
+    /********MENU********/
+    .header-container #logo{
+        padding: 10px 0 10px;
+    }
+    .header-container .top-row{
+        padding: 0;
+    }
+    .header-container .navbar-toggle{
+        margin: 0;
+    }
+    .header-container .navbar-collapse{
+        margin-top: 10px;
+    }
+    .header-container .navbar {
+        text-align: left !important;
+        margin-top: -45px;
+    }
+    /********************/
+    /********HEADER CAROUSEL********/
+    #section-carousel{
+        height: 400px;
+    }
+    .quienes-somos .avatar::after{
+        margin-top: -400px;
+        margin-left: -110px;
+        position: absolute;
+        width: 700px !important;
+        height: 500px;
+    }
+    /*******************************/
+    /********QUIENES SOMOS********/
+    .quienes-somos .contenido-section h1{
+        text-align: center;
+        font-size: 20px;
+        padding-right: 50px;
+    }
+    .quienes-somos .contenido-section span{
+        margin-right: -50px;
+    }
+    .quienes-somos .contenido-section p{
+        margin-top: -25px;
+        text-align: center;
+        font-size: 25px;
+    }
+    /*******************************/
+    /**********SERVICE***************/
+    /********************************/
+    .section-service{
+        height: auto!important;
+        padding-top: 140px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .section-service .item-3{
+        margin-top: 50px;
+    }
+    .section-service .item-4{
+         margin-top: 100px;
+    }
+
+    /************************************/
+     /************TEAM**************/
+    .section-team{
+        padding: 0;
+    }
+    .section-team h1{
+        text-align: center;
+    }
+    .section-team p{
+        text-align: center;
+        font-size: 20px;
+    }
+    
+    .section-team .content-img img {
+        display: block;
+        margin: auto;
+         margin-left: 25%; 
+        position: relative;
+        border-radius: 50%;
+        max-width: 140px;
+        margin-right: 0 !important;
+    }
+    .section-team .content-text p{
+        font-size: 10px;
+    }
+    .section-team .no-responsive{
+        margin-left: 15%; 
+    }
+    .section-team .jaime .content-text{
+        margin-top: -30px;
+        margin-left: 25px;
+    }
+    .section-team .content-astro .overlayed.overlayed-astronauta::after {
+        position: absolute;
+        width: 100%;
+        height: 500px;
+        top: -150px;
+        left: -150px;
+        z-index: 14;
+    }
+    /*********EVENTOS***************/
+    .contenido-section h1 {
+        text-align: center;
+    }
+    .contenido-section p{
+        text-align: center;
+    }
+    /************************************/
+    /**************EVENTOS***************/
+    .section-eventos{
+        height: auto !important;
+        padding: 50px;
+        padding-bottom: 250px;
+    }
+    .cohete .overlayed.overlayed-cohete::after {
+        top: 300px;
+        width: 100%;
+        height: 600px;
+        z-index: 15;
+    }
+    /************************************/
+    
+}
+
+@media (max-width: 500px) {
+    /********MENU********/
+    .header-container #logo{
+        padding: 10px 0 10px;
+    }
+    .header-container .top-row{
+        padding: 0;
+    }
+    .header-container .navbar-toggle{
+        margin: 0;
+    }
+    .header-container .navbar-collapse{
+        margin-top: 10px;
+    }
+    .header-container .navbar {
+        text-align: left !important;
+        margin-top: -45px;
+    }
+    /********************/
+    /********HEADER CAROUSEL********/
+    #section-carousel{
+        height: 400px;
+    }
+    .quienes-somos .avatar::after{
+        margin-top: -450px;
+        margin-left: -40px;
+        position: absolute;
+        width: 400px !important;
+        height: 500px;
+    }
+    /*******************************/
+    /********QUIENES SOMOS********/
+    .quienes-somos{
+        padding: 10px;
+    }
+    .quienes-somos .contenido-section h1{
+        text-align: center;
+        font-size: 30px;
+        padding-right: 80px;
+    }
+    .quienes-somos .contenido-section p{
+        padding: 0;
+        margin-top: -25px;
+        text-align: center;
+        font-size: 20px;
+    }
+
+
+    /*******************************/
+    /**********SERVICE***************/
+    /************TEAM**************/
+    .section-team{
+        padding: 0;
+    }
+    .section-team h1{
+        text-align: center;
+    }
+    .section-team p{
+        text-align: center;
+        font-size: 20px;
+    }
+    
+    .section-team .content-img img {
+        display: block;
+        margin: auto;
+         margin-left: 19%; 
+        position: relative;
+        border-radius: 50%;
+        max-width: 130px;
+        margin-right: 0 !important;
+    }
+    .section-team .content-text p{
+        font-size: 10px;
+    }
+    .section-team .no-responsive{
+        margin-left: 19%; 
+    }
+    .section-team .content-astro .overlayed.overlayed-astronauta::after {
+        position: absolute;
+        width: 100%;
+        height: 500px;
+        background: url(../images/svg/astronauta2.svg) bottom no-repeat;
+        background-size: cover;
+        top: -150px;
+        left: -150px;
+        z-index: 14;
+    }
+    /*********EVENTOS***************/
+    .contenido-section h1 {
+        text-align: center;
+    }
+    .contenido-section p{
+        text-align: center;
+    }
+    /*******************************/
+    .section-service{
+        height: auto !important;
+        padding-top: 140px;
+        padding-right: 0;
+    }
+    .section-service .content-service{
+        padding: 20px;
+        padding-left: 27px;
+    }
+    .section-service .item-3{
+        margin-top: 50px;
+    }
+    .section-service .item-4{
+         margin-top: 100px;
+    }
+    .section-service .col-lg-3{
+        margin-left: 
+    }
+      .section-service h2{
+        font-size: 10px;
+    }
+    .section-service p{
+        font-weight: 100;
+        font-size: 12px;
+    }
+    .section-service .img-responsive{
+        padding: 20px !important;
+        width: auto;
+        height: auto;
+    }
+  
+    /************************************/
+    /**************EVENTOS***************/
+    .section-eventos{
+        height: auto !important;
+        padding: 0;
+        padding-bottom: 250px;
+        padding-top: 50px;
+    }
+    .cohete .overlayed.overlayed-cohete::after {
+        top: 350px;
+        width: 100%;
+        height: 500px;
+        z-index: 15;
+    }
+}
+
+
+
+
+
+
