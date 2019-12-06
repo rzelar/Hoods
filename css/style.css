@@ -82,6 +82,7 @@ ul{
     text-align: center;
     border-radius: 50%;
     line-height: 30px;
+    z-index: 22;
 }
 
 .section-social li a .fab.fa-facebook-f{
@@ -848,4 +849,15 @@ span, .menu-items a:focus span {
     }
     
     
+}
+
+.link{
+    z-index: 9;
+}
+.link a{
+    color: white;
+    font-weight: bold;
+}
+.indice{
+    z-index: 21;
 }
